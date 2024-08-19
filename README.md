@@ -12,3 +12,6 @@ some script
 
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
+
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain actions.
