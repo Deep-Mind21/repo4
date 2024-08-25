@@ -15,3 +15,6 @@ some script
 
 > [!CAUTION]
 > Advises about risks or negative outcomes of certain actions.
+
+
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
